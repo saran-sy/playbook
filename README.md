@@ -1,4 +1,2 @@
 # playbook
-creating ansible playbook for 
- -> User and Groups
- -> Multiple packages
+creating ansible playbook for User and Groups, Multiple packages
